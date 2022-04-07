@@ -1,0 +1,8 @@
+1. Explain what the terminal is in your own words.
+	The terminal is a program that allows you to have more control over your Mac by allowing you to execute commands that do things such as finding files hidden from the GUI and running programs.
+
+2. What is the major difference between Git and Github?
+	Git is a version control software that allows you to work on code using a main copy and however many backups you may need so that you can make mistakes, experiment, and work with several other people at the same time without having to worry about ruining work. GitHub is a place to host the different Git repositories, which are all the files and changes for the work you are doing. 
+
+3. Why do we use Github?
+	We use GitHub because it allows for open collaboration between developers, and lets them connect to help one another as well. It is made to share Git projects outside of your own computer as well as keep track of any changes you or others may have made to the project.
